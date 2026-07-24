@@ -1466,25 +1466,16 @@ Items below are based on current repository gaps and extension points:
 - Add monitoring for prediction distribution and data drift.
 - Add versioned evaluation reports in `reports/`.
 
----
-
-## Contributors
-
-To be updated after contributor information is added.
 
 ---
 
 ## Author
 
-To be updated after author information is added.
+N M AMLAN
 
 ---
 
-## License
 
-To be updated after a license file is added.
-
----
 
 ## Acknowledgements
 
